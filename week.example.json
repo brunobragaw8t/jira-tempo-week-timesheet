@@ -1,0 +1,29 @@
+[
+  {
+    "day": "monday",
+    "start": "09:00",
+    "duration": "1h",
+    "ticket": "PROJ-123",
+    "description": "Sprint planning"
+  },
+  {
+    "day": "monday",
+    "start": "14:00",
+    "duration": "30m",
+    "ticket": "PROJ-456",
+    "description": "1:1 with manager"
+  },
+  {
+    "day": "wednesday",
+    "start": "10:00",
+    "duration": "1h30m",
+    "ticket": "PROJ-123",
+    "description": "Backlog refinement"
+  },
+  {
+    "day": "friday",
+    "start": "15:00",
+    "duration": "45m",
+    "ticket": "PROJ-789"
+  }
+]
